@@ -7,3 +7,4 @@ and desription ro get a meaning
 
 1. open index.html in your browser.
 2. select a way to show you code
+3. just to check what we did wrong
